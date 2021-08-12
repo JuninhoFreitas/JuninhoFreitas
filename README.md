@@ -1,4 +1,4 @@
-# Hello there 👋
+# Salve 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JuninhoFreitas.JuninhoFreitas)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -17,7 +17,7 @@ const whoAmI = {
 const ferramentas = {
     frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
     backEnd: ['NodeJs','Python','Pascal'],
-    bancoDeDados: ['Firebird','MSSQL','MySql'],
+    bancoDeDados: ['Firebird','MSSQL','MySql','PostgreSQL'],
     sistemasOperacionais: ['Ubuntu', 'Windows', 'Manjaro'],
     especialidade: ['Bots','Telegram','Automatização','Macro', 'Api', 'Segurança'],
 }
@@ -34,10 +34,8 @@ module.exports = person;
 
 ## 📝 Blogs
 
-- Personal website and blog: https://JuninhoFreitas.github.io/
-- Notes of AWS Solution Architecture - Associate: https://JuninhoFreitas.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://JuninhoFreitas.github.io/leetcode/
-
+- Site pessoal: https://www.dev-addict.com/
+- Palestrante no TDC Transformation 2021 dia 24/08/2021
 
 ## 🔧 Technologies & Tools
 
@@ -45,12 +43,11 @@ module.exports = person;
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
