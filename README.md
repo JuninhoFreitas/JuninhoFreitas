@@ -14,7 +14,7 @@ const whoAmI = {
     ocupacao: 'Analista NodeJS - PMWEB',
     hobby: 'www.dev-addict.com',
 }
-const ferramentas = {
+const tools = {
     frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
     backEnd: ['NodeJs','Python','Pascal'],
     bancoDeDados: ['Firebird','MSSQL','MySql','PostgreSQL'],
@@ -24,7 +24,7 @@ const ferramentas = {
 const person = {
     ...whoAmI,
     conhecimentos: {
-        ...ferramentas
+        ...tools
     }
 }
 
