@@ -64,7 +64,7 @@ module.exports = person;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuninhoFreitas&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cp7nz0yw1aejrnjbopfo12qn8)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cp7nz0yw1aejrnjbopfo12qn8&count=3)
 
 ## 🗂️ Highlight Projects
 
