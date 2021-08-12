@@ -4,24 +4,32 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```javascript
+const whoAmI = {
+    name: 'João de Freitas Brizolla Junior',
+    apelido: 'Juninho',
+    idadeEmAnos: 19,
+    localizado: 'Novo Hamburgo - RS - Brazil',
+    idiomas: ['pt-BR','en-US'],
+    ocupacao: 'Analista NodeJS - PMWEB',
+    hobby: 'www.dev-addict.com',
+}
+const ferramentas = {
+    frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
+    backEnd: ['NodeJs','Python','Pascal'],
+    bancoDeDados: ['Firebird','MSSQL','MySql'],
+    sistemasOperacionais: ['Ubuntu', 'Windows', 'Manjaro'],
+    especialidade: ['Bots','Telegram','Automatização','Macro', 'Api', 'Segurança'],
+}
+const person = {
+    ...whoAmI,
+    conhecimentos: {
+        ...ferramentas
+    }
+}
 
+module.exports = person;
 
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
 ```
 
 ## 📝 Blogs
