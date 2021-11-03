@@ -35,8 +35,7 @@ module.exports = person;
 ## 📝 Blogs
 
 - Site pessoal: https://www.dev-addict.com/
-- Palestrante no TDC Transformation 2021 dia 24/08/2021
-
+- Palestrante no TDC Transformation 2021
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
