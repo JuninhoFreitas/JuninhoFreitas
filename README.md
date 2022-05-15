@@ -11,15 +11,15 @@ const whoAmI = {
     idadeEmAnos: 19,
     localizado: 'Novo Hamburgo - RS - Brazil',
     idiomas: ['pt-BR','en-US'],
-    ocupacao: 'Analista NodeJS - PMWEB',
+    ocupacao: 'Desenvolvedor Pleno - Sensedia',
     hobby: 'www.dev-addict.com',
 }
 const tools = {
     frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
     backEnd: ['NodeJs','Python','Pascal'],
-    bancoDeDados: ['Firebird','MSSQL','MySql','PostgreSQL'],
+    bancoDeDados: ['Firebird','MSSQL','MySql','PostgreSQL', 'MongoDb'],
     sistemasOperacionais: ['Ubuntu', 'Windows', 'Manjaro'],
-    especialidade: ['Bots','Telegram','Automatização','Macro', 'Api', 'Segurança'],
+    especialidade: ['Bots','Telegram','Criptomoedas','MicroServices', 'Api', 'Segurança'],
 }
 const person = {
     ...whoAmI,
@@ -35,7 +35,9 @@ module.exports = person;
 ## 📝 Blogs
 
 - Site pessoal: https://www.dev-addict.com/
+- Criador do: www.consumistas.com.br
 - Palestrante no TDC Transformation 2021
+- Palestrante no TDC Innovation 2022
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
