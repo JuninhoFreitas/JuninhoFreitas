@@ -7,23 +7,22 @@
 ```javascript
 const whoAmI = {
     name: 'João de Freitas Brizolla Junior',
-    apelido: 'Juninho',
-    idadeEmAnos: 19,
-    localizado: 'Novo Hamburgo - RS - Brazil',
-    idiomas: ['pt-BR','en-US'],
-    ocupacao: 'Desenvolvedor Pleno - Sensedia',
+    nickname: 'Juninho',
+    yearsOld: 19,
+    localization: 'Novo Hamburgo - RS - Brazil',
+    languages: ['pt-BR','en-US'],
+    occupation: 'Desenvolvedor Pleno - Sensedia',
     hobby: 'www.dev-addict.com',
 }
 const tools = {
     frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
     backEnd: ['NodeJs','Python','Pascal'],
-    bancoDeDados: ['Firebird','MSSQL','MySql','PostgreSQL', 'MongoDb'],
-    sistemasOperacionais: ['Ubuntu', 'Windows', 'Manjaro'],
-    especialidade: ['Bots','Telegram','Criptomoedas','MicroServices', 'Api', 'Segurança'],
+    database: ['Firebird','MSSQL','MySql','PostgreSQL', 'MongoDb'],
+    favoriteStack: ['Bots','Telegram','Criptomoedas','MicroServices', 'Api', 'Segurança'],
 }
 const person = {
     ...whoAmI,
-    conhecimentos: {
+    knowledge: {
         ...tools
     }
 }
