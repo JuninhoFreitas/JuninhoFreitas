@@ -8,7 +8,7 @@
 const whoAmI = {
     name: 'João de Freitas Brizolla Junior',
     nickname: 'Juninho',
-    yearsOld: 19,
+    yearsOld: 20,
     localization: 'Novo Hamburgo - RS - Brazil',
     languages: ['pt-BR','en-US'],
     occupation: 'Desenvolvedor Pleno - Sensedia',
