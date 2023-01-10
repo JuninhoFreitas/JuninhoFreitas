@@ -11,7 +11,7 @@ const whoAmI = {
     yearsOld: 20,
     localization: 'Novo Hamburgo - RS - Brazil',
     languages: ['pt-BR','en-US'],
-    occupation: 'Desenvolvedor Pleno - Sensedia',
+    occupation: 'Desenvolvedor Backend - Sensedia',
     hobby: 'www.dev-addict.com',
 }
 const tools = {
@@ -34,9 +34,10 @@ module.exports = person;
 ## 📝 Blogs
 
 - Site pessoal: https://www.dev-addict.com/
-- Criador do: www.consumistas.com.br
+- Criador do: www.dev-addict.com.br
 - Palestrante no TDC Transformation 2021
 - Palestrante no TDC Innovation 2022
+- Palestrante no TDC Future 2022
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
