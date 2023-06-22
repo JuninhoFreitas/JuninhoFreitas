@@ -33,11 +33,11 @@ module.exports = person;
 
 ## 📝 Blogs
 
-- Site pessoal: https://www.dev-addict.com/
-- Criador do: www.dev-addict.com.br
+- Site pessoal: https://www.junior.freitas.dev/
 - Palestrante no TDC Transformation 2021
 - Palestrante no TDC Innovation 2022
 - Palestrante no TDC Future 2022
+- Coordenador no TDC Innovation 2023 (Javascript & Node.Js)
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
