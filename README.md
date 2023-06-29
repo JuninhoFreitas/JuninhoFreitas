@@ -11,7 +11,7 @@ const whoAmI = {
     yearsOld: 20,
     localization: 'Novo Hamburgo - RS - Brazil',
     languages: ['pt-BR','en-US'],
-    occupation: 'Desenvolvedor Backend - Sensedia',
+    occupation: 'Senior Backend Engineer - iClinic / Afya',
     hobby: 'www.dev-addict.com',
 }
 const tools = {
