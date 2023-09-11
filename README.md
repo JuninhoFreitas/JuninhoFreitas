@@ -8,7 +8,7 @@
 const whoAmI = {
     name: 'João de Freitas Brizolla Junior',
     nickname: 'Juninho',
-    yearsOld: 20,
+    yearsOld: 21,
     localization: 'Novo Hamburgo - RS - Brazil',
     languages: ['pt-BR','en-US'],
     occupation: 'Senior Backend Engineer - iClinic / Afya',
@@ -16,7 +16,7 @@ const whoAmI = {
 }
 const tools = {
     frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
-    backEnd: ['NodeJs','Python','Pascal'],
+    backEnd: ['NodeJs','Golang','Python','Pascal'],
     database: ['Firebird','MSSQL','MySql','PostgreSQL', 'MongoDb'],
     favoriteStack: ['Bots','Telegram','Criptomoedas','MicroServices', 'Api', 'Segurança'],
 }
@@ -33,7 +33,7 @@ module.exports = person;
 
 ## 📝 Blogs
 
-- Site pessoal: https://www.junior.freitas.dev/
+- Site pessoal: https://juninho.dev/
 - Palestrante no TDC Transformation 2021
 - Palestrante no TDC Innovation 2022
 - Palestrante no TDC Future 2022
