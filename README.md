@@ -11,14 +11,14 @@ const whoAmI = {
     yearsOld: 21,
     localization: 'Novo Hamburgo - RS - Brazil',
     languages: ['pt-BR','en-US'],
-    occupation: 'Senior Backend Engineer - iClinic / Afya',
-    hobby: 'www.dev-addict.com',
+    occupation: 'Senior Software Engineer - Stone Co.',
+    hobby: ['juninho.dev', 'web.unidosnosenhor.com.br'],
 }
 const tools = {
-    frontEnd: ['React-Js','Sass','Css','Javascript','Bootstrap'],
+    frontEnd: ['React-Js','Vue', 'Nuxt', 'Sass','Css','Javascript','Bootstrap'],
     backEnd: ['NodeJs','Golang','Python','Pascal'],
     database: ['Firebird','MSSQL','MySql','PostgreSQL', 'MongoDb'],
-    favoriteStack: ['Bots','Telegram','Criptomoedas','MicroServices', 'Api', 'Segurança'],
+    favoriteStack: ['Bots','Nuxt','Payments','MicroServices', 'API', 'Security'],
 }
 const person = {
     ...whoAmI,
